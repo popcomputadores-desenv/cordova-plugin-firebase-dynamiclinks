@@ -4,10 +4,6 @@ import android.content.Intent;
 import android.net.Uri;
 import android.util.Log;
 
-import com.google.android.gms.tasks.Continuation;
-import com.google.android.gms.tasks.OnCompleteListener;
-import com.google.android.gms.tasks.OnFailureListener;
-import com.google.android.gms.tasks.Task;
 import com.google.firebase.dynamiclinks.DynamicLink;
 import com.google.firebase.dynamiclinks.DynamicLink.AndroidParameters;
 import com.google.firebase.dynamiclinks.DynamicLink.GoogleAnalyticsParameters;
